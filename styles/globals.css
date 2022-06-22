@@ -8,9 +8,14 @@ body {
 
 a {
   color: inherit;
+  
   text-decoration: none;
 }
 
 * {
   box-sizing: border-box;
+}
+
+h1{
+  color: peru;
 }
